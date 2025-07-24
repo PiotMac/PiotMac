@@ -13,7 +13,7 @@ Here are some of my key repositories — a mix of academic, personal, and explor
 - 🔹 **[ImperativeCompiler](https://github.com/PiotMac/ImperativeCompiler)** – A simple compiler in Python covering lexical and syntax analysis.
 - 🔹 **[Thesis](https://github.com/PiotMac/Thesis)** – Codebase related to my Bachelor's thesis (anomaly detection for inventory systems).
 - 🔹 **[TSP-ACO](https://github.com/PiotMac/TSP-ACO)** – Ant Colony Optimization (ACO) algorithm for solving the Traveling Salesman Problem (TSP).
-- 🔹 **[MCMC_generator](https://github.com/PiotMac/MCMC_generator)** – Sample generator based on Markov Chain Monte Carlo (MCMC) methods.
+- 🔹 **[MCMC_generator](https://github.com/PiotMac/MCMC_generator/tree/web-app)** – Sample generator based on Markov Chain Monte Carlo (MCMC) methods.
 
 ---
 
