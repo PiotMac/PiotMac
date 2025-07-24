@@ -27,7 +27,7 @@ Here are some of my key repositories — a mix of academic, personal, and explor
 
 ## 📫 Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/maciejo%C5%84czyk/)  
+- [LinkedIn](https://www.linkedin.com/in/piotr-maciejonczyk/)  
 - maciejonczykp@gmail.com
 
 Thanks for stopping by! Feel free to explore my repositories 😊
